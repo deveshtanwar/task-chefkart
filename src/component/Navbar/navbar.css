@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+
+.navbar > p{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0px;
+    margin: 0px 15px;
+}

@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap');
+
+
+.card{
+    width: 340px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.row{
+    display: flex;
+    height: 30px;
+}
+
+.row > p{
+    margin: 0px;
+    padding: 0px;
+}
+
+img{
+    width: 120px;
+    height: 100px;
+    border-radius: 5px;
+}
+
+.row-1 > p{
+    font-size: 12px;
+    margin: 5px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+.row-2 > p{
+    font-size: 10px;
+    margin: 5px;
+}
+
+.row-3{
+    color: gray;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+.row-link{
+    display: flex;
+    flex-direction: column;
+}
+
+.row-link > p{
+    font-size: 12px;
+    margin: 5px;
+}
+
+.dish-hr{
+    height: 3px;
+    background-color: rgb(197, 197, 197);
+}
+
+.rating{
+    background-color: #51C452;
+    padding: 3px!important;
+    color: white;
+    font-size: 8px !important;
+    border-radius: 2px;
+    font-weight: bold;
+}
+
+.addButton{
+    position: absolute;
+    border: 1px solid orange;
+    color:orange;
+    background-color: white;
+    padding: 2px 8px;
+    font-size: 14px;
+    width: 30px;
+    margin-left: 38px;
+    margin-top: -15px;
+    border-radius: 5px;
+}
+
+.column1-dishes{
+    width: 200px;
+}

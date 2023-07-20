@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap');
+
+.sep-hr{
+    height: 3px;
+    background-color: rgb(219, 217, 217);
+}
+
+.recommended{
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.recommended > p{
+    margin: 0px;
+    font-size: 16px;
+    color: #1C1C1C;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.dark-button{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 10px;
+    box-shadow: 2px 3px 1px #dcdbdb;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* ************************Recommended.css *******************************/
+
+.main-container-dishes{
+    width: 360px;
+    margin: auto;
+}
+
+.I-tag{
+    padding: 11px;
+}
+
+.visitLink{
+    color: #FF8800;
+    font-size: 11px;
+    margin: auto;
+    text-decoration: none;
+}

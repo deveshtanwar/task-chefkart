@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap');
+
+.cuisine{
+    display: flex;
+    margin: 5px ;
+    overflow: scroll;
+}
+
+.cuisine::-webkit-scrollbar{
+    display: none;
+}
+
+.cuisine > p{
+    border: 1px solid gray;
+    color: gray;
+    padding: 5px 19px;
+    margin: 15px 8px;
+    border-radius: 17px;
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.cuisine > p:first-child{
+    color:#FF941A;
+    border-color: #FF941A;
+    background-color: #FFF9F2;
+}

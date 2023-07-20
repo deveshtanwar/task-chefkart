@@ -7,7 +7,7 @@ function App() {
     <>
       <BrowserRouter basename="/task-chefkart">
         <Routes>
-          <Route exact path = "/task-chefkart" element = {<SelectDishes />}/>
+          <Route path = "/" exact element = {<SelectDishes />}/>
           <Route path = "/DishDetail" element = {<DishDetail />} />
         </Routes>
       </BrowserRouter>

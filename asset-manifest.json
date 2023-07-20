@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/task-chefkart/static/css/main.8d4003ee.css",
-    "main.js": "/task-chefkart/static/js/main.5850e15a.js",
+    "main.js": "/task-chefkart/static/js/main.ef8cac6a.js",
     "static/js/787.510ff778.chunk.js": "/task-chefkart/static/js/787.510ff778.chunk.js",
     "static/media/herbal.png": "/task-chefkart/static/media/herbal.8d2349f3d458677d9d1c.png",
     "static/media/Mask Group 17.png": "/task-chefkart/static/media/Mask Group 17.68a41fadfe8e98b24fdf.png",
@@ -10,11 +10,11 @@
     "static/media/Group 393.svg": "/task-chefkart/static/media/Group 393.0a03bd8c7e48c96582f76758379a6e21.svg",
     "static/media/star.svg": "/task-chefkart/static/media/star.9fdc75830f5c8f265b25dfcbed249c48.svg",
     "main.8d4003ee.css.map": "/task-chefkart/static/css/main.8d4003ee.css.map",
-    "main.5850e15a.js.map": "/task-chefkart/static/js/main.5850e15a.js.map",
+    "main.ef8cac6a.js.map": "/task-chefkart/static/js/main.ef8cac6a.js.map",
     "787.510ff778.chunk.js.map": "/task-chefkart/static/js/787.510ff778.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8d4003ee.css",
-    "static/js/main.5850e15a.js"
+    "static/js/main.ef8cac6a.js"
   ]
 }

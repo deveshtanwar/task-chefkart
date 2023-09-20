@@ -23,7 +23,7 @@ const SelectDishes = () =>{
             setdishData(res.data.dishes);
         })
     },[]);
-    
+
     return(
         <>
             <Navbar title={'Select Dishes'}/>

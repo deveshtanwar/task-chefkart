@@ -3,12 +3,13 @@ import SelectDishes from "../src/screens/SelectDishes/SelectDishes";
 import DishDetail from "../src/screens/DishDetail/DishDetail";
 
 function App() {
+
   return (
     <>
       <BrowserRouter basename="/task-chefkart">
         <Routes>
-          <Route path = "/" exact element = {<SelectDishes />}/>
-          <Route path = "/DishDetail" element = {<DishDetail />} />
+          <Route path = "/" exact element = {<SelectDishes/>}/>
+          <Route path = "/DishDetail/:id" element = {<DishDetail/>} />
         </Routes>
       </BrowserRouter>
     </>

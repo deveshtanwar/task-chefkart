@@ -21,7 +21,7 @@ const Dishes = (prop) =>{
                                 <p>|</p>
                                 <div className="row row-link">
                                     <p>Ingredients</p>
-                                    <Link className="visitLink" to="/DishDetail">visit list</Link>
+                                    <Link className="visitLink" to={`/DishDetail/${id}`}>visit list</Link>
                                 </div>
                             </div>
                             <div className="row row-3">
